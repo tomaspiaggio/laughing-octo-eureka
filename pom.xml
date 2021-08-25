@@ -11,6 +11,7 @@
   <description>Maven Java Seed Project</description>
   
   <properties>
+    <exec.mainClass>App</exec.mainClass>
 	<java.version>1.8</java.version>
 	<maven.compiler.source>${java.version}</maven.compiler.source>
 	<maven.compiler.target>${java.version}</maven.compiler.target>

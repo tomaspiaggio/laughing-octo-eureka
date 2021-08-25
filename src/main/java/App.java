@@ -1,5 +1,3 @@
-package my.project;
-
 import org.tensorflow.ConcreteFunction;
 import org.tensorflow.Signature;
 import org.tensorflow.Tensor;
